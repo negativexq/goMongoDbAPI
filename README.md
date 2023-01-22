@@ -6,13 +6,13 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-###Prerequisites
+### Prerequisites
 
 - Golang 
 - Fiber v2
 - MongoDB
 
-##Installing
+## Installing
 
 1.Clone the repository to your local machine:
 
